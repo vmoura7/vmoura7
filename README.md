@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Victor Moura</h1>
-<h3 align="center">Graduando em Analise e Desenvolvimento de Sistemas | Estácio <br> Só quem é apaixonado por desenvolver sabe que codar é ir além dos códigos! </h3>
+<h3 align="center">Pós Graduando em Engenharia de Software <br> Só quem é apaixonado por desenvolver sabe que codar é ir além dos códigos! </h3>
 
 
 <p align="center"> <img width="300"  src="https://www.icegif.com/wp-content/uploads/icegif-1301.gif" alt="Mando" /> </p>
