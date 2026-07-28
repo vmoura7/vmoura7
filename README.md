@@ -12,7 +12,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vmouradev&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
----
 
 <div align="center">
   <i>"Ser programador vai além de escrever código — é sobre resolver problemas reais, otimizar processos e transformar ideias em soluções inteligentes."</i>
