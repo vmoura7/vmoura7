@@ -12,13 +12,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vmouradev&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmouradev&theme=dracula" alt="streak stats"/>
-</div>
-
 ---
 
 <div align="center">
